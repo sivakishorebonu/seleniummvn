@@ -6,7 +6,7 @@ public class ArrayExmpl {
 		int a[] = {1,3,4,5,6,7,8,9};
 		for(int x = 0; x < a.length; x++) {
 			System.out.println(a[x]);
-			System.out.println("For testing git commit");
+			System.out.println("For testing git commit version 2");
 		}
 		String name[]= {"Nehara","Kishore","Madhav"};
 		System.out.println(name);
